@@ -1,0 +1,194 @@
+local args = {
+    [1] = 12725985163,
+    [2] = "HairAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "Featured",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 13076468110,
+    [2] = "HatAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "Featured",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 7168622927,
+    [2] = "HatAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "Featured",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 13076468110,
+    [2] = "HatAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "JustAdded",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 7070629846,
+    [2] = "FrontAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "JustAdded",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 12725985163,
+    [2] = "HairAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "JustAdded",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 15154325262,
+    [2] = "HairAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["Subcategory"] = "JustAdded",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 9179890366,
+    [2] = "PantsAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 9342288452,
+    [2] = "DressSkirtAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 14338617862,
+    [2] = "HairAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 9512935978,
+    [2] = "ShirtAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Beauty",
+    [2] = "9179890366",
+    [3] = "UGC"
+}
+
+game:GetService("ReplicatedStorage").Remotes.ExpandDetailsEvent:FireServer(unpack(args))
+local args = {
+    [1] = "Default",
+    [2] = "9179890366",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.AddItemToWishlistFunction:InvokeServer(unpack(args))
+local args = {
+    [1] = 7146704948,
+    [2] = "HatAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = 13414474020,
+    [2] = "HairAccessory",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes:FindFirstChild("AvatarCustomizer:TryAccessoryFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Default",
+    [2] = "13414474020",
+    [3] = true,
+    [4] = {
+        ["Department"] = "Beauty",
+        ["IsDepartmentItem"] = true,
+        ["Category"] = "UGC"
+    }
+}
+
+game:GetService("ReplicatedStorage").Remotes.AddItemToWishlistFunction:InvokeServer(unpack(args))
